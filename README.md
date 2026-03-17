@@ -26,7 +26,6 @@ This project analyzes **1,095 IPL matches** and **260,920 ball-by-ball deliverie
 
 | Finding | Stat |
 |---|---|
-| All-time top scorer | V Kohli — 8,014 runs |
 | Greatest single season | V Kohli 2016 — 973 runs (untouched for 8 years) |
 | Most sixes ever | CH Gayle — 359 sixes in 141 matches |
 | Gayle's six rate | 2.55 sixes/match vs Rohit Sharma's 1.12 |
@@ -45,7 +44,7 @@ This project analyzes **1,095 IPL matches** and **260,920 ball-by-ball deliverie
 - Matches played per season (2008–2024)
 - Top 10 venues by matches hosted
 
-### Phase 6 — Hidden Stories
+### Phase 5 — Hidden Stories
 - Sixes per match — Gayle vs The World
 - Top scorer each season (2008–2024)
 - Death over batting kings
